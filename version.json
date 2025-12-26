@@ -1,7 +1,7 @@
 {
-  "version": "2.1.0",
+  "version": "2.1.1",
   "url": "https://play.google.com/store/apps/details?id=com.drinitylab.mastermindsaga",
   "changelog": [
-    "Completed full text localization and improved performance by internalizing styles and animations for mobile stability."
+    "Added full translations for Spanish, French, and German to match the languages ​​supported by the auto-detection feature."
   ]
 }
